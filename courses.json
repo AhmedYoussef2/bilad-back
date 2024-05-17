@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "courseName": "English Course LV1",
+    "courseLanguage": "English",
+    "price": "1000 EG",
+    "flagLink": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg",
+    "description": "A Level 1 English language course provides foundational instruction in basic grammar, vocabulary, reading, writing, and conversational skills for beginners"
+  },
+  {
+    "id": 2,
+    "courseName": "English Course LV2",
+    "courseLanguage": "English",
+    "price": "1500 EG",
+    "flagLink": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg",
+    "description": "A Level 2 English language course builds on basic skills, focusing on improving intermediate grammar, expanding vocabulary, and enhancing reading, writing, and conversational abilities."
+  },
+  {
+    "id": 3,
+    "courseName": "French Course LV1",
+    "courseLanguage": "French",
+    "price": "1000 EG",
+    "flagLink": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+    "description": "A Level 1 French course introduces beginners to basic French grammar, vocabulary, pronunciation, and simple conversational skills."
+  },
+  {
+    "id": 4,
+    "courseName": "French Course LV2",
+    "courseLanguage": "French",
+    "price": "1500 EG",
+    "flagLink": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+    "description": "A Level 2 French course advances beginner skills by deepening knowledge of grammar, expanding vocabulary, and enhancing conversational and comprehension abilities in various contexts."
+  },
+  {
+    "id": 5,
+    "courseName": "Spanish Course LV1",
+    "courseLanguage": "Spanish",
+    "price": "1000 EG",
+    "flagLink": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg",
+    "description": "A Level 1 Spanish course offers foundational instruction in Spanish, covering elementary grammar, vocabulary, pronunciation, and basic conversation skills for new learners."
+  },
+  {
+    "id": 6,
+    "courseName": "Spanish Course LV2",
+    "courseLanguage": "Spanish",
+    "price": "1500 EG",
+    "flagLink": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg",
+    "description": "A Level 2 Spanish course builds upon foundational skills, delving deeper into grammar, expanding vocabulary, and enhancing conversational fluency for intermediate learners."
+  },
+  {
+    "id": 7,
+    "courseName": "Italian Course LV1",
+    "courseLanguage": "Italian",
+    "price": "1000 EG",
+    "flagLink": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg",
+    "description": "A Level 1 Italian course offers newcomers an entry point into fundamental Italian grammar, vocabulary, pronunciation, and crucial conversational abilities."
+  },
+  {
+    "id": 8,
+    "courseName": "Italian Course LV2",
+    "courseLanguage": "Italian",
+    "price": "1500 EG",
+    "flagLink": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg",
+    "description": "A Level 2 Italian course advances learners beyond the basics, focusing on deepening grammar understanding, expanding vocabulary, and improving conversational proficiency in Italian."
+  },
+  {
+    "id": 9,
+    "courseName": "Russian Course LV1",
+    "courseLanguage": "Russian",
+    "price": "1000 EG",
+    "flagLink": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg",
+    "description": "A Level 1 Russian course introduces beginners to fundamental aspects of the Russian language, including basic grammar, vocabulary, pronunciation, and essential conversational skills."
+  },
+  {
+    "id": 10,
+    "courseName": "Russian Course LV2",
+    "courseLanguage": "Russian",
+    "price": "1500 EG",
+    "flagLink": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg",
+    "description": "A Level 2 Russian course progresses beyond introductory skills, focusing on nuanced grammar structures, enriched vocabulary acquisition, and improved conversational competency for learners at an intermediate level."
+  }
+]
