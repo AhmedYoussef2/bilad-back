@@ -1,13 +1,13 @@
 {
     "status": "ok",
     "totalResults": 34,
-    "articles": [
+    "articles":[
   {
     "id": 1,
     "courseName": "English Course LV1",
     "courseLanguage": "English",
     "price": "1000 EG",
-    "flagLink": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg",
+    "flagLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/1200px-Flag_of_the_United_Kingdom_%283-5%29.png",
     "description": "A Level 1 English language course provides foundational instruction in basic grammar, vocabulary, reading, writing, and conversational skills for beginners"
   },
   {
@@ -15,7 +15,7 @@
     "courseName": "English Course LV2",
     "courseLanguage": "English",
     "price": "1500 EG",
-    "flagLink": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg",
+    "flagLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/1200px-Flag_of_the_United_Kingdom_%283-5%29.png",
     "description": "A Level 2 English language course builds on basic skills, focusing on improving intermediate grammar, expanding vocabulary, and enhancing reading, writing, and conversational abilities."
   },
   {
@@ -23,7 +23,7 @@
     "courseName": "French Course LV1",
     "courseLanguage": "French",
     "price": "1000 EG",
-    "flagLink": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+    "flagLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/2560px-Flag_of_France.png",
     "description": "A Level 1 French course introduces beginners to basic French grammar, vocabulary, pronunciation, and simple conversational skills."
   },
   {
@@ -31,7 +31,7 @@
     "courseName": "French Course LV2",
     "courseLanguage": "French",
     "price": "1500 EG",
-    "flagLink": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+    "flagLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/2560px-Flag_of_France.png",
     "description": "A Level 2 French course advances beginner skills by deepening knowledge of grammar, expanding vocabulary, and enhancing conversational and comprehension abilities in various contexts."
   },
   {
@@ -39,7 +39,7 @@
     "courseName": "Spanish Course LV1",
     "courseLanguage": "Spanish",
     "price": "1000 EG",
-    "flagLink": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg",
+    "flagLink": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/1200px-Flag_of_Spain.png",
     "description": "A Level 1 Spanish course offers foundational instruction in Spanish, covering elementary grammar, vocabulary, pronunciation, and basic conversation skills for new learners."
   },
   {
@@ -47,7 +47,7 @@
     "courseName": "Spanish Course LV2",
     "courseLanguage": "Spanish",
     "price": "1500 EG",
-    "flagLink": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg",
+    "flagLink": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/1200px-Flag_of_Spain.png",
     "description": "A Level 2 Spanish course builds upon foundational skills, delving deeper into grammar, expanding vocabulary, and enhancing conversational fluency for intermediate learners."
   },
   {
@@ -55,7 +55,7 @@
     "courseName": "Italian Course LV1",
     "courseLanguage": "Italian",
     "price": "1000 EG",
-    "flagLink": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg",
+    "flagLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/2560px-Flag_of_Italy.png",
     "description": "A Level 1 Italian course offers newcomers an entry point into fundamental Italian grammar, vocabulary, pronunciation, and crucial conversational abilities."
   },
   {
@@ -63,7 +63,7 @@
     "courseName": "Italian Course LV2",
     "courseLanguage": "Italian",
     "price": "1500 EG",
-    "flagLink": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg",
+    "flagLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/2560px-Flag_of_Italy.png",
     "description": "A Level 2 Italian course advances learners beyond the basics, focusing on deepening grammar understanding, expanding vocabulary, and improving conversational proficiency in Italian."
   },
   {
@@ -71,7 +71,7 @@
     "courseName": "Russian Course LV1",
     "courseLanguage": "Russian",
     "price": "1000 EG",
-    "flagLink": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg",
+    "flagLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/2560px-Flag_of_Russia.png",
     "description": "A Level 1 Russian course introduces beginners to fundamental aspects of the Russian language, including basic grammar, vocabulary, pronunciation, and essential conversational skills."
   },
   {
@@ -79,7 +79,7 @@
     "courseName": "Russian Course LV2",
     "courseLanguage": "Russian",
     "price": "1500 EG",
-    "flagLink": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg",
+    "flagLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/2560px-Flag_of_Russia.png",
     "description": "A Level 2 Russian course progresses beyond introductory skills, focusing on nuanced grammar structures, enriched vocabulary acquisition, and improved conversational competency for learners at an intermediate level."
   }
 ]
