@@ -1,4 +1,7 @@
-[
+{
+    "status": "ok",
+    "totalResults": 34,
+    "articles": [
   {
     "id": 1,
     "courseName": "English Course LV1",
@@ -80,3 +83,4 @@
     "description": "A Level 2 Russian course progresses beyond introductory skills, focusing on nuanced grammar structures, enriched vocabulary acquisition, and improved conversational competency for learners at an intermediate level."
   }
 ]
+}
