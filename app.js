@@ -35,7 +35,12 @@ app.get('/Bilad/getCourses', async (req, res) => {
 
     res.json(jsonData);
   });
+app.get('/Bilad/about', async (req, res) => {
+    const filePath = path.join(__dirname, 'about.json');
+    const jsonData = await readJsonFile(filePath);
 
+    res.json(jsonData);
+});
 app.get('/Bilad/getCourse/:id', async (req, res) => {
     try {
         const filePath = path.join(__dirname, 'courses1.json');
