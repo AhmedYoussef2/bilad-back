@@ -38,7 +38,7 @@ app.get('/Bilad/getCourses', async (req, res) => {
 
 app.get('/Bilad/getCourse/:id', async (req, res) => {
     try {
-        const filePath = path.join(__dirname, 'courses.json');
+        const filePath = path.join(__dirname, 'courses1.json');
         const jsonData = await readJsonFile(filePath);
 
         const CourseId = parseInt(req.params.id);
@@ -52,7 +52,7 @@ app.get('/Bilad/getCourse/:id', async (req, res) => {
 });
 
 app.put('/Bilad/updateCourse', async (req, res) => {
-    const filePath = path.join(__dirname, 'courses.json');
+    const filePath = path.join(__dirname, 'courses1.json');
     const jsonData = await readJsonFile(filePath);
 
     const CourseId = parseInt(req.params.id);
@@ -66,7 +66,7 @@ app.put('/Bilad/updateCourse', async (req, res) => {
 });
 
 app.delete('/Bilad/deleteCourse/:id', async (req, res) => {
-    const filePath = path.join(__dirname, 'courses.json');
+    const filePath = path.join(__dirname, 'courses1.json');
     const jsonData = await readJsonFile(filePath);
 
     const CourseId = parseInt(req.params.id);
