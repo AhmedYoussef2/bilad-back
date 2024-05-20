@@ -1,26 +1,3 @@
 [
-  {
-    "id": 1,
-    "username": "user1",
-    "email": "user1@example.com",
-    "password": "$2a$10$ft3TGruJU7JMi6j2bRYM0eThr1i6s2KxA/3ELtIjh3MyIIoUXwcF6"
-  },
-  {
-    "id": 2,
-    "username": "user2",
-    "email": "user2@example.com",
-    "password": "$2a$10$bq42ABL0oa/arPQJaYBgpOTT7poxYnRNBw0tH8CrXQ.Y5DjPehoD2"
-  },
-  {
-    "id": 3,
-    "username": "newuser",
-    "email": "newuser@example.com",
-    "password": "$2a$10$9B1XzmwzeFCaPzGi4Bn5a..V1/d7dcrA.A5jcggY2vA1UrNv/UI6G"
-  },
-  {
-    "id": 4,
-    "username": "user13",
-    "email": "user13@example.com",
-    "password": "$2a$10$gVw.3Yk4SioK7fmx9Z8iROa5F8RuT7zdLTTE9otWyoP9TU6.jBWIy"
-  }
+
 ]
